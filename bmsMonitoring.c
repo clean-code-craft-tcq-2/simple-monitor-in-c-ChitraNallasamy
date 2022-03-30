@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
+#include <bmsMonitoring.h>
 
 int rangeConditionCheck(float param, int min_threshold, int max_threshold)
 {
