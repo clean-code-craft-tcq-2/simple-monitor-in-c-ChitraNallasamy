@@ -22,7 +22,7 @@ struct BattManagementSystem
     float Temperature;
     float stateOfCharge;
     float batteryChargeRate;
-};
+}
 
 void validityCheck (int validity, char* param)
 {
